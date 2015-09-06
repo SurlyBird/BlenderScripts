@@ -1,3 +1,5 @@
+__author__ = 'ronnie ashlock'
+
 import bpy
 
 class Gunbuilder():
